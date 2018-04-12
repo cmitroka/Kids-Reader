@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="This has been save; what do you want to do next?" />
+
+    <Button
+        android:id="@+id/buttonDontDL"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="OnClickGoToMyContent"
+        android:text="Go To my Content" />
+
+    <Button
+        android:id="@+id/buttonDoDL"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="OnClickDownloadMoreContent"
+        android:text="Download more Content" />
+</LinearLayout>
