@@ -1,0 +1,5 @@
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll.config
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.pdb
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\obj\x86\Debug\KidsReader.dll
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\obj\x86\Debug\KidsReader.pdb

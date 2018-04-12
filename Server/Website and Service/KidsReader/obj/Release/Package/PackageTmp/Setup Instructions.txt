@@ -1,0 +1,6 @@
+﻿In the App_Code, SiteSpecific.cs, change the Template App references to the name of the application.
+Change Page Title="Template App" in Default.aspx
+
+MDB changed from App
+
+NOTE: To create a class which can successfully be references, you have to go to the project (right under solution), right click, Add, New Item, Class.  Once made, it can be referenced.  It can also at that point be moved to App_Code.

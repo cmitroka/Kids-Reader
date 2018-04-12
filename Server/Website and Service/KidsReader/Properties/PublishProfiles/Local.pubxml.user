@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\FP500</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>10/04/2017 01:12:11</publishTime>
+    </File>
+    <File Include="AdminAppWS.asmx">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWeb.htm">
+      <publishTime>10/04/2017 01:12:12</publishTime>
+    </File>
+    <File Include="AdminWebFiles/AdminApp.js">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/jquery-2.1.3.min.js">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/jquery.blockUI.js">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/jquery.json-2.4.min.js">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/jquery.mobile-1.4.0.min.css">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/jquery.mobile-1.4.0.min.js">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/spinner.gif">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="AdminWebFiles/Transparent.gif">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="App_Code/Decode.cs">
+      <publishTime>10/22/2017 09:36:50</publishTime>
+    </File>
+    <File Include="bin/App.dll">
+      <publishTime>10/23/2017 19:49:02</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Feedback.aspx">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="FPFriender.asmx">
+      <publishTime>10/04/2017 01:12:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/AndroidLogo.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/AndroidPhone.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/AppDetails.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/AppDetailsSmaller.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/black_pixel.gif">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/CornerIcon.png">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/IOSLogo.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/IOSPhone.jpg">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/Transparent.gif">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/transparent_pixel.gif">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/Other/white_pixel.gif">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/AndroidPhone.jpg">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/AndroidQRCode.png">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/AppDetails.jpg">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/CornerIcon.png">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/IOSPhone.jpg">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="Images/SiteSpecific/IOSQRCode.png">
+      <publishTime>10/04/2017 01:12:10</publishTime>
+    </File>
+    <File Include="ReportError.aspx">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Setup Instructions.txt">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>10/04/2017 01:12:11</publishTime>
+    </File>
+    <File Include="Styles/SiteMin.css">
+      <publishTime>10/04/2017 01:12:09</publishTime>
+    </File>
+    <File Include="TestHtmlPage.html">
+      <publishTime>10/04/2017 01:12:11</publishTime>
+    </File>
+    <File Include="TestWebForm.aspx">
+      <publishTime>10/04/2017 01:12:12</publishTime>
+    </File>
+    <File Include="ThankYou.aspx">
+      <publishTime>10/04/2017 01:12:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/14/2017 02:27:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

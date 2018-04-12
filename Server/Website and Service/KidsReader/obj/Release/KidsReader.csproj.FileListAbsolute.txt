@@ -1,0 +1,18 @@
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll.config
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\bin\KidsReader.pdb
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.csprojResolveAssemblyReference.cache
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.dll
+C:\Dev\Kid Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.pdb
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll.config
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\bin\KidsReader.pdb
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.csprojResolveAssemblyReference.cache
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.dll
+C:\Dev\Kid_Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.pdb
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll.config
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\bin\KidsReader.dll
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\bin\KidsReader.pdb
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.csprojResolveAssemblyReference.cache
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.dll
+C:\Dev\Prototyping\Kids Reader\Server\Website and Service\KidsReader\obj\Release\KidsReader.pdb
