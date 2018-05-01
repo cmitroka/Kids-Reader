@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mnuAdjust"
+        android:orderInCategory="100"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/mnuDownload"
+        android:orderInCategory="101"
+        android:title="Download Story"/>
+    <item
+        android:id="@+id/mnuOpt1"
+        android:orderInCategory="102"
+        android:title="Morgans Trick Words"/>
+    <item
+        android:id="@+id/mnuOpt2"
+        android:orderInCategory="103"
+        android:title="Morgans Real Words"/>
+
+</menu>
