@@ -1,0 +1,7 @@
+Assisted spoken reading of user entered stories similar to how leapfrog works
+
+Kids Reader is an app designed to help my daughter study for her English Language Arts (ELA) exams.  
+Its purpose is to speak aloud the words that are difficult to read by tapping on them.  By doing this, most of the reading is done by you, but if help is needed – tapping on the word will tell you what it is.  This is similar to the LeapFrog Reading and Writing system, only requiring a finger instead of special hardware and books.
+Some content is available from within the app, but it was built for the purpose of reviewing what your child is learning in class.  That being said, you should find out the type of material your child is working on, and find/enter similar. We’ll continue to expand what we provide as the program gains popularity, but the most relevant material will be what you enter.
+Please remember – this app exists to improve reading skills, by helping with words that are difficult to sound out.  The focus is on education, not entertainment.  So things you may normally see in children’s books (such as pictures illustrating what’s happening on a page) aren’t present here.
+Please contact us with your feedback.  There are a lot of things we look to improve if this app does well.
